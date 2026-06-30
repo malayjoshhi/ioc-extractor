@@ -1,0 +1,7 @@
+Security Threat Incident Report #8841
+Attacker connected from IP address 192.168.1.105 and downloaded payload from http://malicious-domain.com/payload.exe.
+Communication was established with C2 server at 45.33.32.156 over TCP port 443.
+Exfiltrated data sent to attacker email darknet_admin@blackhat.org.
+File hashes recovered from victim endpoint:
+MD5: 5d41402abc4b2a76b9719d911017c592
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
